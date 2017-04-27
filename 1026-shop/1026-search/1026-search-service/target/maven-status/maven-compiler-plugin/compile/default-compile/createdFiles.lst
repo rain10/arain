@@ -1,0 +1,4 @@
+cn\arain\search\message\ItemAddMessageListener.class
+cn\arain\search\impl\SearchServiceImpl.class
+cn\arain\search\SearchDao.class
+cn\arain\search\mapper\SearchMapper.class

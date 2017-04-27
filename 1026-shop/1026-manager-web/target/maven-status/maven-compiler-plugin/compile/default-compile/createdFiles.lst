@@ -1,0 +1,7 @@
+cn\arain\controller\ContentController.class
+cn\arain\interceptor\LoginInterceptor.class
+cn\arain\controller\CategoryController.class
+cn\arain\controller\UploadFile.class
+cn\arain\controller\SolrController.class
+cn\arain\controller\ItemController.class
+cn\arain\controller\IndexController.class

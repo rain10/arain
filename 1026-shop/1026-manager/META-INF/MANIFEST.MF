@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: 1026-manager
+Bundle-SymbolicName: 1026-manager
+Bundle-Version: 1.0.0.qualifier
